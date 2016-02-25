@@ -4,6 +4,20 @@
 
 This is a starter application for building a database-driven todo list.
 
+You'll be building the following features:
+
+Users should be able to...
+
+- ... sign up
+- ... log in
+- ... log out
+- ... view all todo items (not just theirs)
+- ... create new todo items and assign them to anyone
+- ... edit any todo item, including assigning it to someone else
+- ... delete a todo item
+
+Consider this Todo List Application is being used within a family. The users might be parents, children, and a very intelligent cat. They all create todo items and assign themselves or someone else. When someone finishes a todo item, they mark it as completed.
+
 ### Getting Started
 
 #### Installation
